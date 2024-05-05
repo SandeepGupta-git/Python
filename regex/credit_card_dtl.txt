@@ -1,0 +1,7 @@
+
+card numbers       country   month-expense      holder-name
+1234 5678 9012      india       120000          rithik roshan
+2345 6789 0123      us          2200000         johny depp
+3456 7890 1234      us          2100000         joss butler
+4567 8901 2345      singapoor   2000            ji yun
+5678 9012 3456      malaysia    210000          thai jin min
